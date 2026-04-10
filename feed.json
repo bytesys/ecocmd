@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EcoCMD",
+    "description": "",
+    "home_page_url": "https://ecocmd.com",
+    "feed_url": "https://ecocmd.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "EcoCMD Editorial"
+    },
+    "items": [
+    ]
+}
